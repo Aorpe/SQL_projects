@@ -1,8 +1,4 @@
 -- Data Cleaning Project
--- 1. Remove duplicates if any
--- 2. Standarize the data
--- 3. Look at NULL values and blanck values
--- 4. Remove any irrelevent columns  or rows
 
 -- Creating another table for working on it
 CREATE TABLE layoffs_working
@@ -17,7 +13,7 @@ SELECT *
 FROM layoffs;
 
 -- 1. Remove duplicates
-# 1.1 Looking for duplicates
+-- 1.1 Looking for duplicates
 
 SELECT *
 FROM layoffs_working;
@@ -260,7 +256,8 @@ DROP COLUMN row_num;
 
 SELECT *
 FROM layoffs_working2;
-									-- END OF DATA CLEANING
+
+-- END OF DATA CLEANING
 
 
 
