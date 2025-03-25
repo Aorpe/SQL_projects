@@ -21,8 +21,6 @@ The goal of this project is to clean a dataset by:
 
 This repository contains an Exploratory Data Analysis (EDA) project that I worked on using MySQL. The project involves analyzing a dataset to uncover patterns, trends, and insights as a beginner.
 
-## Project Description
-
 ### Goal
 The goal of this project is to perform an exploratory analysis on a dataset by:
 - Summarizing the data using descriptive statistics
