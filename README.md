@@ -15,3 +15,19 @@ The goal of this project is to clean a dataset by:
 
 ### Files
 - **SQL_project_1.sql**: Contains the SQL script used for cleaning the data.
+
+
+### Project 1: Exploratory Data Analysis Project in MySQL
+
+This repository contains an Exploratory Data Analysis (EDA) project that I worked on using MySQL. The project involves analyzing a dataset to uncover patterns, trends, and insights as a beginner.
+
+## Project Description
+
+### Goal
+The goal of this project is to perform an exploratory analysis on a dataset by:
+- Summarizing the data using descriptive statistics
+- Visualizing data distributions and relationships
+- Identifying patterns and trends
+
+### Files
+- **SQL_project_2.sql**: Contains the SQL scripts used for the exploratory data analysis
