@@ -23,8 +23,6 @@ This repository contains an Exploratory Data Analysis (EDA) project that I worke
 
 ### Goal
 The goal of this project is to perform an exploratory analysis on a dataset by:
-- Summarizing the data using descriptive statistics
-- Visualizing data distributions and relationships
 - Identifying patterns and trends
 
 ### Files
